@@ -1,3 +1,6 @@
+     Hello 👋, my name Fitra
+    welcome to my GitHub. and I'm from indonesia
+---
 
 ## Dimana host situs website Anda?
 Netlify: https://netlify.app  
@@ -72,3 +75,9 @@ CSS color picker from photos: https://imagecolorpicker.com/
 CSS color keyword: https://www.w3.org/wiki/CSS/Properties/color/keywords#Basic_Colors  
 Google Fonts: https://fonts.google.com/  
 Favicon (icons): https://favicon.io/  
+
+---
+
+## Discord Server
+
+* https://discord.gg/MsxuncgpUq
