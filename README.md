@@ -9,7 +9,7 @@ Saya pribadi merekomendasikan menggunakan Google Tag Manager dan menghubungkanny
 
 Google Tag Menger: https://tagmanager.google.com/  
 Microsoft Clarity: https://clarity.microsoft.com/  
-Netlify Analytics (9$ per month): https://docs.netlify.com/monitor-sites/analytics/  
+Netlify Analytics (9$ per bulan): https://docs.netlify.com/monitor-sites/analytics/  
 Google Analytics: https://analytics.google.com  
 
 ---
