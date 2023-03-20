@@ -1,6 +1,6 @@
 ## 💡 About The Project
 This is a project to create a website profile like LinkTree for social media purposes
-* Check the website here
+* Check the website [here](https://craftee.vercel.app/)
 ---
 
 ## 🚀 Getting started
