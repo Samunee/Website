@@ -1,51 +1,52 @@
 ## Hello 👋, my name Fitra
-* Welcome to my GitHub. and I'm from indonesia
+## Welcome to my GitHub. and I'm from indonesia
+
 ---
 
-## Dimana host situs website Anda?
+## Where to host your website?
 Netlify: https://netlify.app  
+Github Pages: https://pages.github.com  
 
 ---
 
-## Analisis 
-Saya pribadi merekomendasikan menggunakan Google Tag Manager dan menghubungkannya ke Microsoft Clarity  
+## Analytics 
+I personally recommend using Google Tag Manager and connect it to Microsoft Clarity  
 
 Google Tag Menger: https://tagmanager.google.com/  
 Microsoft Clarity: https://clarity.microsoft.com/  
-Netlify Analytics (9$ per bulan): https://docs.netlify.com/monitor-sites/analytics/  
+Netlify Analytics (9$ per month): https://docs.netlify.com/monitor-sites/analytics/  
 Google Analytics: https://analytics.google.com  
 
 ---
 
-## Sosial Media Icons
-Di sini Anda dapat memilih icons yang Anda inginkan untuk setiap tautan:  
+## Social Media Icons
+Here you can choose your wanted icons for each link:  
 https://fontawesome.com/search?o=r&m=free  
 
-### Sebelum menggunakan:
-* Pastikan Anda hanya memilih dari bagian "gratis".  
-* Salin kode untuk HTML / CSS.  
+### Before using:
+* Make sure that you choose only from the "free" section.  
+* Copy the code for HTML/CSS.  
 
-### Cara menggunakan (Contoh)
-Katakanlah Anda ingin menggunakan ikon buku alih-alih ikon Github  
+### How to use (Example)
+Let's say you want to use book icon instead of the Twitter icon  
 
-Baris di bawah tautan yang Anda inginkan berisi baris ini: "fab fa-github"  
+The line under your wanted link contains this line: "fab fa-twitter"  
 
-Kemudian, setelah menemukan ikon yang Anda inginkan dan kodenya, 
-Tempelkan kode di tempat yang sama di mana kode Anda sebelumnya  
+Then, after founding the icon that you want and its code, 
+paste the code in the same place where was your previous one  
 
-Kode terakhir terlihat seperti ini: "fa-solid fa-book"  
+The final code shoud look like this: "fa-solid fa-book"  
 
 ---
 
-## Cara menyesuaikan template (baris mana yang harus Anda ubah)
-
+## How to customize the template (which lines you should change)
 
 ### index.html file
-1. line 7 - Website title  
-2. line 10 - Website icon image  
-3. line 15 - Profile image  
-4. line 19 - Username  
-5. line 23 - Description  
+1. line 7 - website title  
+2. line 10 - website icon image  
+3. line 15 - profile image  
+4. line 19 - user name  
+5. line 23 - description  
 6. lines 27-55 - your social media links  
 
 ### style.css file
@@ -54,13 +55,12 @@ Kode terakhir terlihat seperti ini: "fa-solid fa-book"
 
 ---
 
-## Background image
-Anda dapat mengubah backround menjadi warna alih-alih menggunakan gambar.  
+## Backround image 
+You can change backround to color instead of using an image.  
 
 ### Backround Color
 background-color: #7E65F5;  
-Anda dapat menemukan kode warna yang Anda inginkan di sini:
-* https://www.color-hex.com  
+You can find your wanted color code here: https://www.color-hex.com  
 
 ### Gradient Backround Color
 background-image: linear-gradient (#E8E0FF, #7E65F5);  
@@ -68,7 +68,7 @@ CSS Gradient Generator: https://www.css-gradient.com/
 
 ---
 
-## Resources Gratis Lainnya
+## Other Free Resources
 Coolors (colors palettes): https://coolors.co  
 ColorsWall (colors palette): https://colorswall.com  
 CSS color picker from photos: https://imagecolorpicker.com/  
