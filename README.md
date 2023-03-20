@@ -1,4 +1,6 @@
-## Hello 👋, my name is Fitra and I'm from Indonesia
+## About The Project
+This is a project to create a website profile like LinkTree for social media purposes
+* Check the website here
 
 ---
 
