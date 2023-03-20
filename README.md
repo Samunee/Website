@@ -1,5 +1,5 @@
-     Hello 👋, my name Fitra
-    welcome to my GitHub. and I'm from indonesia
+   Hello 👋, my name Fitra
+   welcome to my GitHub. and I'm from indonesia
 ---
 
 ## Dimana host situs website Anda?
