@@ -1,5 +1,4 @@
-Hello 👋, my name Fitra
-Welcome to my GitHub. and I'm from indonesia
+Hello 👋, my name Fitra and I'm from indonesia
 
 ---
 
