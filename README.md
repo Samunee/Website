@@ -1,4 +1,4 @@
-Hello 👋, my name Fitra and I'm from indonesia
+## Hello 👋, my name is Fitra and I'm from Indonesia
 
 ---
 
