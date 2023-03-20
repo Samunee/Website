@@ -8,8 +8,8 @@ Installed
 
     git clone https://github.com/Samunee/Website.git
     
-* setelah Repository terinstall anda hanya perlu mengedit source code di visual studio code
-* lalu ubah beberapa seperti foto profil, nama, link, dan background image (jpg, jpeg, png, gif)
+* After the Repository is installed you only need to edit the source code in Visual Studio Code
+* Then change some such as profile photo, name, link, and background image (jpg, jpeg, png, gif)
 
 ---
 
