@@ -3,7 +3,7 @@
 ---
 
 ## Where to host your website?
-Netlify: https://netlify.app  
+Vercel: https://netlify.app  
 Github Pages: https://pages.github.com  
 
 ---
