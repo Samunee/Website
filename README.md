@@ -27,11 +27,11 @@ Github Pages: https://pages.github.com
 3. line 15 - profile image  
 4. line 19 - user name  
 5. line 23 - description  
-6. lines 27-55 - your social media links  
+6. lines 26-36 - your social media links  
 
 ### style.css file
-1. line 4 - text color  
-2. line 12 - your backround image  
+1. line 3 - text color  
+2. line 10 - your background image  
 ```
 ---
 
