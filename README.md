@@ -1,11 +1,11 @@
 
-## Where to host your website?
+## Dimana host situs website Anda?
 Netlify: https://netlify.app  
 
 ---
 
-## Analytics 
-I personally recommend using Google Tag Manager and connect it to Microsoft Clarity  
+## Analisis 
+Saya pribadi merekomendasikan menggunakan Google Tag Manager dan menghubungkannya ke Microsoft Clarity  
 
 Google Tag Menger: https://tagmanager.google.com/  
 Microsoft Clarity: https://clarity.microsoft.com/  
@@ -14,34 +14,35 @@ Google Analytics: https://analytics.google.com
 
 ---
 
-## Social Media Icons
-Here you can choose your wanted icons for each link:  
+## Sosial Media Icons
+Di sini Anda dapat memilih icons yang Anda inginkan untuk setiap tautan:  
 https://fontawesome.com/search?o=r&m=free  
 
-### Before using:
-* Make sure that you choose only from the "free" section.  
-* Copy the code for HTML/CSS.  
+### Sebelum menggunakan:
+* Pastikan Anda hanya memilih dari bagian "gratis".  
+* Salin kode untuk HTML / CSS.  
 
-### How to use (Example)
-Let's say you want to use book icon instead of the Twitter icon  
+### Cara menggunakan (Contoh)
+Katakanlah Anda ingin menggunakan ikon buku alih-alih ikon Github  
 
-The line under your wanted link contains this line: "fab fa-twitter"  
+Baris di bawah tautan yang Anda inginkan berisi baris ini: "fab fa-github"  
 
-Then, after founding the icon that you want and its code, 
-paste the code in the same place where was your previous one  
+Kemudian, setelah menemukan ikon yang Anda inginkan dan kodenya, 
+Tempelkan kode di tempat yang sama di mana kode Anda sebelumnya  
 
-The final code shoud look like this: "fa-solid fa-book"  
+Kode terakhir terlihat seperti ini: "fa-solid fa-book"  
 
 ---
 
-## How to customize the template (which lines you should change)
+## Cara menyesuaikan template (baris mana yang harus Anda ubah)
+
 
 ### index.html file
-1. line 7 - website title  
-2. line 10 - website icon image  
-3. line 15 - profile image  
-4. line 19 - user name  
-5. line 23 - description  
+1. line 7 - Website title  
+2. line 10 - Website icon image  
+3. line 15 - Profile image  
+4. line 19 - User name  
+5. line 23 - Description  
 6. lines 27-55 - your social media links  
 
 ### style.css file
@@ -50,12 +51,12 @@ The final code shoud look like this: "fa-solid fa-book"
 
 ---
 
-## Backround image 
-You can change backround to color instead of using an image.  
+## Background image
+Anda dapat mengubah backround menjadi warna alih-alih menggunakan gambar.  
 
 ### Backround Color
 background-color: #7E65F5;  
-You can find your wanted color code here: https://www.color-hex.com  
+Anda dapat menemukan kode warna yang Anda inginkan di sini: https://www.color-hex.com  
 
 ### Gradient Backround Color
 background-image: linear-gradient (#E8E0FF, #7E65F5);  
@@ -63,7 +64,7 @@ CSS Gradient Generator: https://www.css-gradient.com/
 
 ---
 
-## Other Free Resources
+## Resources Gratis Lainnya
 Coolors (colors palettes): https://coolors.co  
 ColorsWall (colors palette): https://colorswall.com  
 CSS color picker from photos: https://imagecolorpicker.com/  
