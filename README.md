@@ -1,6 +1,15 @@
-## About The Project
+## 💡 About The Project
 This is a project to create a website profile like LinkTree for social media purposes
 * Check the website here
+---
+
+## 🚀 Getting started
+Installed
+
+    git clone https://github.com/Samunee/Website.git
+    
+* setelah Repository terinstall anda hanya perlu mengedit source code di visual studio code
+* lalu ubah beberapa seperti foto profil, nama, link, dan background image (jpg, jpeg, png, gif)
 
 ---
 
