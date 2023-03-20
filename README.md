@@ -41,7 +41,7 @@ Kode terakhir terlihat seperti ini: "fa-solid fa-book"
 1. line 7 - Website title  
 2. line 10 - Website icon image  
 3. line 15 - Profile image  
-4. line 19 - User name  
+4. line 19 - Username  
 5. line 23 - Description  
 6. lines 27-55 - your social media links  
 
@@ -56,7 +56,8 @@ Anda dapat mengubah backround menjadi warna alih-alih menggunakan gambar.
 
 ### Backround Color
 background-color: #7E65F5;  
-Anda dapat menemukan kode warna yang Anda inginkan di sini: https://www.color-hex.com  
+Anda dapat menemukan kode warna yang Anda inginkan di sini:
+* https://www.color-hex.com  
 
 ### Gradient Backround Color
 background-image: linear-gradient (#E8E0FF, #7E65F5);  
