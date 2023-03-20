@@ -34,6 +34,10 @@ Github Pages: https://pages.github.com
 2. line 12 - your backround image  
 ```
 ---
+# Note:
+Read the instructions first, before running the tool🌸😀
+If there is a mistake you can see it on Google, YouTube, or ask me via my discord server
+---
 
 ## Discord Server
 
