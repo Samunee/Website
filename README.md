@@ -46,5 +46,5 @@ Github Pages: https://pages.github.com
     
 ---
     
-<h2 align="left">Discord Server</h3>
-<h3 align="left">https://discord.gg/MsxuncgpUq</h3>
+<h3 align="left">Discord Server</h3>
+<h4 align="left">https://discord.gg/MsxuncgpUq</h4>
