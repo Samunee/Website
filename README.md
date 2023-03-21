@@ -19,7 +19,7 @@ Github Pages: https://pages.github.com
 
 ---
 
-## How to customize the template (which lines you should change)
+## How to customize (which lines you should change)
 ```
 ### index.html file
 1. line 7 - website title  
