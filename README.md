@@ -41,10 +41,6 @@ Github Pages: https://pages.github.com
  
 ---
 
-<h3 align="left">Languages</h3>
+<h3 align="left">Language in uses</h3>
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     
----
-    
-<h3 align="left">Discord Server</h3>
-<h4 align="left">https://discord.gg/MsxuncgpUq</h4>
