@@ -36,7 +36,7 @@ Github Pages: https://pages.github.com
 ---
 
 # Note:
-* Read the instructions first, before running the tool🌸😀
+* Read the instructions first, before running the tool
 * If there is a mistake you can see it on Google, YouTube, or ask me via my [discord server](https://discord.gg/MsxuncgpUq)
  
 ---
