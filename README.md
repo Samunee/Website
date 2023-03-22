@@ -10,13 +10,9 @@ Installed
 * After the Repository is installed you only need to edit the source code in Visual Studio Code
 * Then change some such as profile photo, name, link, and background image (jpg, jpeg, png, gif)
 
----
-
 ## Where to host your website?
 Vercel: https://vercel.app  
 Github Pages: https://pages.github.com  
-
----
 
 ## How to customize (which lines you should change)
 ```
@@ -32,13 +28,10 @@ Github Pages: https://pages.github.com
 1. line 3 - text color  
 2. line 10 - your background image  
 ```
----
 
 # Note:
 * Read the instructions first, before running the tool
 * If there is a mistake you can see it on Google, YouTube, or ask me via my [discord server](https://discord.gg/MsxuncgpUq)
- 
----
 
 <p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
     
